@@ -1,7 +1,7 @@
 {
   "name": "cmd-9",
   "description": "Use the cmd-9 tab-switching shortcut like Chrome does, by switching to the last tab instead of the ninth tab.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {},
   "activationEvents": [
