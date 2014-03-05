@@ -1,0 +1,31 @@
+{
+  "name": "cmd-9",
+  "description": "Use the cmd-9 tab-switching shortcut like Chrome does, by switching to the last tab instead of the ninth tab.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "activationEvents": [
+    "cmd-9:switch-to-last-tab"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/cmd-9"
+  },
+  "engines": {
+    "atom": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/cmd-9/issues"
+  },
+  "homepage": "https://github.com/hughsk/cmd-9",
+  "keywords": [
+    "atom",
+    "command",
+    "keybinding",
+    "tab",
+    "switch",
+    "last"
+  ]
+}
