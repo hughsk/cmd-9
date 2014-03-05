@@ -5,8 +5,6 @@ tab instead of the ninth tab.
 
 ## Usage ##
 
-[![cmd-9](https://nodei.co/npm/cmd-9.png?mini=true)](https://nodei.co/npm/cmd-9)
-
 Install the package using Atom's package manager, `apm`:
 
 ``` bash
